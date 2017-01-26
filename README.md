@@ -8,7 +8,6 @@
 * [striptags] (https://www.npmjs.com/package/striptags) 
 * [entities] (https://www.npmjs.com/package/entities)
 * [moment-timezone] (https://www.npmjs.com/package/moment-timezone) 
-* Datebase Manager 
- * [sqlite3] (https://www.npmjs.com/package/sqlite3) 
+* [sqlite3] (https://www.npmjs.com/package/sqlite3) 
 
 
