@@ -1,0 +1,12 @@
+{
+  "prefix": "~",
+  "token": "MjczNjc5NjQ4MDc0NzYwMTky.C2nDjA.pzBLIYb8tc3okDoJJhK2myzx-KE",
+  "timezone": "America/New_York",
+  "refreshTimeMinutes": 10,
+  "sqlType": "sqlite3",
+  "databaseName": "rss",
+  "sendOldMessages": false,
+  "defaultMaxAge": 2,
+  "defaultMessage": ":newspaper:  |  **{title}**\n\n{link}",
+  "maxFeeds": 50
+}
