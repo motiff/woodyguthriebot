@@ -2,7 +2,7 @@
 [![Code Climate](https://codeclimate.com/github/gooseberrycollective/Mujeres-Libres/badges/gpa.svg)](https://codeclimate.com/github/gooseberrycollective/Mujeres-Libres)
 [![Issue Count](https://codeclimate.com/github/gooseberrycollective/Mujeres-Libres/badges/issue_count.svg)](https://codeclimate.com/github/gooseberrycollective/Mujeres-Libres)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
-[![GPL Licence](https://badges.frapsoft.com/os/gpl/gpl.svg?v=103)](https://opensource.org/licenses/GPL-3.0/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
 ###Built With
