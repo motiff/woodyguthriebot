@@ -1,0 +1,14 @@
+{
+  "name": "/r/socialism",
+  "id": "310958455827595277",
+  "sources": [
+    {
+      "enabled": 1,
+      "name": "plug.dj",
+      "link": "https://xiffy.nl/lastfmrss.php?user=hellomissforget",
+      "channel": "310958559250743296",
+      "message": "just played on plug.dj: ",
+      }
+    },
+    
+}
