@@ -1,3 +1,6 @@
+cobbled together from Abbie Verschoor's last.FM to RSS feed http://xiffy.nl/blog/lastfm-rss-feeds
+and gooseberrycollective's Mujeres Libres bot (whose credits are below)
+
 #Mujeres Libres
 [![Code Climate](https://codeclimate.com/github/gooseberrycollective/Mujeres-Libres/badges/gpa.svg)](https://codeclimate.com/github/gooseberrycollective/Mujeres-Libres)
 [![Issue Count](https://codeclimate.com/github/gooseberrycollective/Mujeres-Libres/badges/issue_count.svg)](https://codeclimate.com/github/gooseberrycollective/Mujeres-Libres)
